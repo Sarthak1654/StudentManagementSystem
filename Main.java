@@ -5,7 +5,7 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        // 🔐 Login System
+        // Login System
         String username = "admin";
         String password = "1234";
 
